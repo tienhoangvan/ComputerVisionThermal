@@ -1,0 +1,35 @@
+{
+    "ssd_mobilenet_v1": {
+        "model_name": "ssd_mobilenet_v1_coco_2018_01_28",
+    },
+    "ssd_mobilenet_v2": {
+        "model_name": "ssd_mobilenet_v2_coco_2018_03_29",
+    },
+    "ssd_resnet_50": {
+        "model_name": "ssd_resnet50_v1_fpn_shared_box_predictor_640x640_coco14_sync_2018_07_03",
+    },
+    "ssdlite_mobilenet_v2": {
+        "model_name": "ssdlite_mobilenet_v2_coco_2018_05_09",
+    },
+    "ssd_inception_v2": {
+        "model_name": "ssd_inception_v2_coco_2018_01_28",
+    },
+    "faster_rcnn_inception_v2": {
+        "model_name": "faster_rcnn_inception_v2_coco_2018_01_28",
+    },
+    "faster_rcnn_resnet50_lowproposals": {
+        "model_name": "faster_rcnn_resnet50_lowproposals_coco_2018_01_28",
+    },
+    "rfcn_resnet101": {
+        "model_name": "rfcn_resnet101_coco_2018_01_28",
+    },
+    "faster_rcnn_resnet101_lowproposals": {
+        "model_name": "faster_rcnn_resnet101_lowproposals_coco_2018_01_28",
+    },
+    "faster_rcnn_inception_resnet_v2_atrous_lowproposals": {
+        "model_name": "faster_rcnn_inception_resnet_v2_atrous_lowproposals_coco_2018_01_28",
+    },
+    "faster_rcnn_nas_lowproposals": {
+        "model_name": "faster_rcnn_nas_lowproposals_coco_2018_01_28",
+    }
+}
